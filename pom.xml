@@ -130,7 +130,7 @@
 
     <springockito.version>1.0.9</springockito.version>
 
-    <jacoco.plugin.version>0.7.9</jacoco.plugin.version>
+    <jacoco.plugin.version>0.8.8</jacoco.plugin.version>
 
     <joda.time.version>1.5.2</joda.time.version>
 
